@@ -24,7 +24,6 @@ The following is an initial list of items on how to become an All-Around Network
 
 #### CODING
   * Python [www.python.org]
-  * Cisco IOS Scripting TCL
   * [Cisco IOS Scripting with TCL](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ios_tcl/configuration/xe-16/ios-tcl-xe-16-book/Cisco_IOS_XE_Scripting_with_Tcl.html "Cisco's TCL page")
 
 #### INFOSEC
