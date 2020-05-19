@@ -4,9 +4,9 @@ A list on how to become a Great All-Around Network-Security Engineer
 The following is an initial list of items on how to become an All-Around Network-Security Engineer. It can be used as a point of reference to anybody who wants to go deep into the network-security field. I listed items under the categories of Network, Operating Systems, Application, Coding, InfoSec, Technology and Management. Please fill free to add under each category. Thanks to Ismael Valenzuela (@aboutsecurity) for encourage me to post this list [share your little experience]
 
 #### NETWORK
-  * CCNA R&S
-  * CCNP R&S
-  * ARISTA
+  * [CCNA R&S](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate.html "Cisco's CCNA R&S page")
+  * [CCNP R&S](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional.html "Cisco's CCNP R&S page")
+  * [ARISTA](https://www.arista.com/en "Arista's Homepage")
   * Network Protocol Analyzer - Wireshark [www.wireshark.org]
 
 #### OS
