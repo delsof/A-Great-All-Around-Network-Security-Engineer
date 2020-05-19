@@ -7,23 +7,23 @@ The following is an initial list of items on how to become an All-Around Network
   * [CCNA R&S](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate.html "Cisco's CCNA R&S page")
   * [CCNP R&S](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional.html "Cisco's CCNP R&S page")
   * [ARISTA](https://www.arista.com/en "Arista's Homepage")
-  * [Network Protocol Analyzer - Wireshark](www.wireshark.org "Wireshark's Homepage")
+  * [Network Protocol Analyzer - Wireshark](https://www.wireshark.org/ "Wireshark's Homepage")
 
 #### OS
   * Linux
   * Windows Client / Server
 
 #### APPLICATION
-  * [VMware](www.vmware.com)
-  * [F5 Netowrks Load Balander](www.f5.com)
-  * [Infoblox IPAM](www.infoblox.com)
-  * [SolarWinds](www.solarwinds.com)
-  * [Extrahop](www.extrahop.com)
-  * [Splunk](www.splunk.com)
-  * [MS Azure Cloud Based](azure.microsoft.com)
+  * [VMware](https://www.vmware.com)
+  * [F5 Netowrks Load Balander](https://www.f5.com)
+  * [Infoblox IPAM](https://www.infoblox.com)
+  * [SolarWinds](https://www.solarwinds.com)
+  * [Extrahop](https://www.extrahop.com)
+  * [Splunk](https://www.splunk.com/)
+  * [MS Azure Cloud Based](https://azure.microsoft.com/en-us)
 
 #### CODING
-  * [Python](www.python.org)
+  * [Python](https://www.python.org)
   * [Cisco IOS Scripting with TCL](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ios_tcl/configuration/xe-16/ios-tcl-xe-16-book/Cisco_IOS_XE_Scripting_with_Tcl.html "Cisco's TCL page")
 
 #### INFOSEC
