@@ -15,7 +15,7 @@ The following is an initial list of items on how to become an All-Around Network
 
 #### APPLICATION
   * [VMware](https://www.vmware.com)
-  * [F5 Netowrks Load Balander](https://www.f5.com)
+  * [F5 Netowrks Load Balancer](https://www.f5.com)
   * [Infoblox IPAM](https://www.infoblox.com)
   * [SolarWinds](https://www.solarwinds.com)
   * [Extrahop](https://www.extrahop.com)
