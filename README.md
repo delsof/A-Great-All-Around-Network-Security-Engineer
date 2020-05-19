@@ -7,7 +7,7 @@ The following is an initial list of items on how to become an All-Around Network
   * CCNA R&S
   * CCNP R&S
   * ARISTA
-  * Wireshark
+  * Network Protocol Analyzer - Wireshark [www.wireshark.org]
 
 #### OS
   * Linux
@@ -16,15 +16,16 @@ The following is an initial list of items on how to become an All-Around Network
 #### APPLICATION
   * VMware
   * F5
-  * Infoblox IPAM
-  * SolarWinds
-  * Extrahop
-  * Splunk
-  * MS Azure Cloud Based
+  * Infoblox IPAM [www.infoblox.com]
+  * SolarWinds [www.solarwinds.com]
+  * Extrahop [www.extrahop.com]
+  * Splunk [www.splunk.com]
+  * MS Azure Cloud Based [azure.microsoft.com/en-us]
 
 #### CODING
-  * Python
-  * Cisco TCL
+  * Python [www.python.org]
+  * Cisco IOS Scripting TCL
+  * [Cisco IOS Scripting with TCL](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ios_tcl/configuration/xe-16/ios-tcl-xe-16-book/Cisco_IOS_XE_Scripting_with_Tcl.html "Cisco's TCL page")
 
 #### INFOSEC
   * Ethical Hacker
