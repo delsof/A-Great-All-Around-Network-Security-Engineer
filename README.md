@@ -7,7 +7,7 @@ The following is an initial list of items on how to become an All-Around Network
   * [CCNA R&S](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate.html "Cisco's CCNA R&S page")
   * [CCNP R&S](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional.html "Cisco's CCNP R&S page")
   * [ARISTA](https://www.arista.com/en "Arista's Homepage")
-  * Network Protocol Analyzer - Wireshark [www.wireshark.org]
+  * [Network Protocol Analyzer - Wireshark](www.wireshark.org "Wireshark's Homepage")
 
 #### OS
   * Linux
